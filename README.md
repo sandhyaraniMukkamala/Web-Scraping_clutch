@@ -1,5 +1,5 @@
 Project Description
-THis project is mainly about collecting data by using a method called web scraping. In data science it is important to have enough amount of data with all the required features to perform analysis and make decisions that will benifit our needs.
+This project is mainly about collecting data by using a method called web scraping. In data science it is important to have enough amount of data with all the required features to perform analysis and make decisions that will benifit our needs.
 
 Pre-requisites
 Libraries - beautifulsoap, Requets
