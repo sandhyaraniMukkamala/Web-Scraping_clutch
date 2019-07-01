@@ -1,10 +1,13 @@
-Project Description
+Project Description - 
+
 This project is mainly about collecting data by using a method called web scraping. In data science it is important to have enough amount of data with all the required features to perform analysis and make decisions that will benifit our needs.
 
-Pre-requisites
+Pre-requisites - 
+
 Libraries - beautifulsoap, Requets
 
-Getting started
+Getting started - 
+
 To start with collecting data, we need select a website or a web page that has data we need to scrape.
 Using 'ureq' library we can open the webpage to read the page a save the information in html format and close the connecton.
 Now that we have the data in html format we use beautfulsoap library to parse through the data and get specific information from the tags.
